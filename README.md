@@ -18,6 +18,7 @@
 
 ## OS
 ![Arch Linux](https://img.shields.io/badge/Arch_linux-black?style=for-the-badge&logo=Arch-Linux)
+![Free BSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD&logoColor=red)
 
 ## Environment
 ![dwm](https://img.shields.io/badge/dwm-black?style=for-the-badge&logo=dwm)
