@@ -1,3 +1,6 @@
+**IMPORTANT**
+I no longer use github for my projects, please visit my [self-hosted git](https://git.hlsec.top:12013/7r1n1t3) instead
+
 # Hey
 
 **Welcome to my page!**
